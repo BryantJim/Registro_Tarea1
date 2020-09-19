@@ -12,88 +12,134 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 2062154101,
+        "HashCode": 2040381773,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Shared.SurveyPrompt",
+        "Name": "Registro_Tarea1.App",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Shared.SurveyPrompt"
+          "Common.TypeName": "Registro_Tarea1.App"
         }
       },
       {
-        "HashCode": -1059558871,
+        "HashCode": -836745430,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Shared.SurveyPrompt",
+        "Name": "Registro_Tarea1.App",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Tarea1.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Registro_Tarea1.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Shared.SurveyPrompt",
+          "Common.TypeName": "Registro_Tarea1.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -2080639032,
+        "HashCode": -456040323,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Shared.NavMenu",
+        "Name": "Registro_Tarea1.Pages.Counter",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Shared.NavMenu"
+          "Common.TypeName": "Registro_Tarea1.Pages.Counter"
         }
       },
       {
-        "HashCode": -253625444,
+        "HashCode": 2141505887,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Shared.NavMenu",
+        "Name": "Registro_Tarea1.Pages.Counter",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Tarea1.Shared.NavMenu"
+            "TagName": "Registro_Tarea1.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Shared.NavMenu",
+          "Common.TypeName": "Registro_Tarea1.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 197132025,
+        "Kind": "Components.Component",
+        "Name": "Registro_Tarea1.Pages.FetchData",
+        "AssemblyName": "Registro_Tarea1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Tarea1.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1221267292,
+        "Kind": "Components.Component",
+        "Name": "Registro_Tarea1.Pages.FetchData",
+        "AssemblyName": "Registro_Tarea1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Tarea1.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Tarea1.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1526898947,
+        "Kind": "Components.Component",
+        "Name": "Registro_Tarea1.Pages.Index",
+        "AssemblyName": "Registro_Tarea1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Tarea1.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 858048505,
+        "Kind": "Components.Component",
+        "Name": "Registro_Tarea1.Pages.Index",
+        "AssemblyName": "Registro_Tarea1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Tarea1.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Tarea1.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -194,134 +240,88 @@
         }
       },
       {
-        "HashCode": 2040381773,
+        "HashCode": -2080639032,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.App",
+        "Name": "Registro_Tarea1.Shared.NavMenu",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.App"
+          "Common.TypeName": "Registro_Tarea1.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -836745430,
+        "HashCode": -253625444,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.App",
+        "Name": "Registro_Tarea1.Shared.NavMenu",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Tarea1.App"
+            "TagName": "Registro_Tarea1.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.App",
+          "Common.TypeName": "Registro_Tarea1.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -456040323,
+        "HashCode": 2062154101,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Pages.Counter",
+        "Name": "Registro_Tarea1.Shared.SurveyPrompt",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Pages.Counter"
+          "Common.TypeName": "Registro_Tarea1.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 2141505887,
+        "HashCode": -1059558871,
         "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Pages.Counter",
+        "Name": "Registro_Tarea1.Shared.SurveyPrompt",
         "AssemblyName": "Registro_Tarea1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Tarea1.Pages.Counter"
+            "TagName": "Registro_Tarea1.Shared.SurveyPrompt"
           }
         ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1526898947,
-        "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Pages.Index",
-        "AssemblyName": "Registro_Tarea1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
+        "BoundAttributes": [
           {
-            "TagName": "Index"
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 858048505,
-        "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Pages.Index",
-        "AssemblyName": "Registro_Tarea1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Tarea1.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 197132025,
-        "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Pages.FetchData",
-        "AssemblyName": "Registro_Tarea1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1221267292,
-        "Kind": "Components.Component",
-        "Name": "Registro_Tarea1.Pages.FetchData",
-        "AssemblyName": "Registro_Tarea1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Tarea1.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Tarea1.Pages.FetchData",
+          "Common.TypeName": "Registro_Tarea1.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
