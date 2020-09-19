@@ -6,11 +6,10 @@ using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
-namespace Registro.BLL
+namespace Registro_Tarea1.BLL
 {
-    public class EstudiantesBLL
+    public class PersonasBLL
     {
-        //Guarda
         public static bool Guardar(Personas persona)
         {
             if(!Existe(persona.PersonaId))

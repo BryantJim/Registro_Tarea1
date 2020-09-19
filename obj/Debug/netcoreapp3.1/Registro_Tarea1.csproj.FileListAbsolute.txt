@@ -88,3 +88,13 @@ C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\obj\Debug\netcoreapp3.1\
 C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\obj\Debug\netcoreapp3.1\Registro_Tarea1.dll
 C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\obj\Debug\netcoreapp3.1\Registro_Tarea1.pdb
 C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\obj\Debug\netcoreapp3.1\Registro_Tarea1.genruntimeconfig.cache
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Registro_Tarea1.StaticWebAssets.xml
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Registros\RPersonas.razor.g.cs
+C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\obj\Debug\netcoreapp3.1\Razor\Pages\Registros\RPersonas.razor.g.cs

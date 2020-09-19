@@ -77,6 +77,34 @@ using Registro_Tarea1.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\_Imports.razor"
+using Registro_Tarea1.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\_Imports.razor"
+using Registro_Tarea1.BLL;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\AnthonyB\source\repos\Registro\Registro_Tarea1\Pages\FetchData.razor"
 using Registro_Tarea1.Data;
 
